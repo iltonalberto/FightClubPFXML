@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Undine Race -->
+    <race>
+        <name>Undine</name>
+        <ability>Dex 2</ability>
+        <ability>Wis 2</ability>
+        <ability>Str -2</ability>
+        <size>M</size>
+        <speed>20</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Undines begin play speaking Common and Aquan. Undines with high Intelligence scores can choose from the following
+                Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.</text>
+        </trait>
+        <trait>
+            <name>Energy Resistance</name>
+            <text>Undines have cold resistance 5.</text>
+        </trait>
+        <trait>
+            <name>Spell-Like Ability (Sp)</name>
+            <text>Undines can use hydraulic push 1/day (caster level equals the undine’s level).</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Undines can see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Water Affinity</name>
+            <text>Undine sorcerers with the elemental (water) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. undine clerics with the Water domain cast their Water domain powers and spells at +1 caster level.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Acid Breath (Alternate Racial Traits)</name>
+            <text>Undines whose outsider heritage can be traced to a water mephit can wield acid as a weapon. Such an undine has a breath weapon that is a 5-foot cone of acidic water usable once per day. The breath deals 1d8 points of acid damage per two character levels (maximum 5d8). A Reflex saving throw (DC 10 + 1/2 the undine’s level + the undine’s Constitution modifier) halves the damage. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Amphibious (Alternate Racial Traits)</name>
+            <text>Some undines are born with a permanent bond to water. Undines with this racial trait gain the aquatic subtype and amphibious special quality. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Deepsight (Alternate Racial Traits)</name>
+            <text>The eyes of some undines are especially adapted to the lightless depths of the oceans, but not to air-filled environments. An undine with this racial trait has darkvision 120 feet when underwater, but otherwise has no darkvision at all. This racial trait replaces darkvision.</text>
+        </trait>
+        <trait>
+            <name>Flesh Chameleon (Alternate Racial Traits)</name>
+            <text>Some undines can change their coloration to match human skin tones. As a standard action, an undine with this racial trait can change her natural blue hue to match any normal human skin tone, and can revert to normal as a free action. This grants a +4 racial bonus on Disguise checks to appear human. This racial trait replaces energy resistance.</text>
+        </trait>
+        <trait>
+            <name>Hydrated Vitality (Alternate Racial Traits)</name>
+            <text>An undine with this racial trait gains fast healing 2 for 1 round anytime she submerges completely within a body of natural salt water, fresh water, or brackish water. Stagnant, poisoned, or trapped water (such as an artificial pit or a bag of holding) does not activate this ability. The undine can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces water affinity.</text>
+        </trait>
+        <trait>
+            <name>Mostly Human (Alternate Racial Traits)</name>
+            <text>A few undines have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as charm person or enlarge person). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.</text>
+        </trait>
+        <trait>
+            <name>Nereid Fascination (Alternate Racial Traits)</name>
+            <text>Some undines can trace their ancestry to nereids as well as to outsiders. Once per day as a standard action, such an undine can create a 20-foot-radius aura that causes humanoids within the aura’s range to become fascinated with her for a number of rounds equal to 1/2 the undine’s character level (minimum 1). Targets may resist with a Will save (DC 10 + 1/2 the undine’s level + the undine’s Charisma modifier). This is a supernatural ability. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Ooze Breath (Alternate Racial Traits)</name>
+            <text>Some undines’ outsider heritage can be traced to ooze mephits. These undines have a breath weapon that is a 5-foot cone of slime usable once per day. The slime deals 1d4 points of acid damage per two character levels (maximum 5d4) and sickens creatures in the area for 3 rounds. A successful Reflex saving throw (DC 10 + 1/2 the undine’s level + the undine’s Constitution modifier) halves the damage and negates the sickened effect. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Terrain Chameleon (Alternate Racial Traits)</name>
+            <text>Some undines can change their coloration to blend in with underwater terrain, mixing browns, grays, and greens to resemble kelp or other natural water plants. As a standard action, an undine with this racial trait can change her coloration, gaining a +4 bonus on Stealth checks in underwater environments. She can return to normal as a free action. This racial trait replaces energy resistance.</text>
+        </trait>
+        <trait>
+            <name>Triton Magic (Alternate Racial Traits)</name>
+            <text>Some undines descend from tritons, rather than genies. Undines with this racial trait can use summon nature’s ally I as a spell-like ability, but only to summon a dolphin. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Water Sense (Alternate Racial Traits)</name>
+            <text>Undines with this racial trait can sense vibrations in water, granting them blindsense 30 feet against creatures in contact with the same body of water. This racial trait replaces energy resistance.</text>
+        </trait>
+    </race>
+</compendium>

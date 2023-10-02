@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Vishkanya Race -->
+    <race>
+        <name>Vishkanya</name>
+        <ability>Dex 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Wis -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Vishkanyas begin play speaking Common and Vishkanya. Vishkanyas with high Intelligence scores can choose from the following: Aklo, Draconic, Elven, Goblin, Sylvan, and Undercommon.</text>
+        </trait>
+        <trait>
+            <name>Poison Resistance</name>
+            <text>A vishkanya has a racial bonus on saving throws against poison equal to its Hit Dice.</text>
+        </trait>
+        <trait>
+            <name>Keen Senses</name>
+            <text>Vishkanyas receive a +2 racial bonus on Perception checks.</text>
+            <modifier category = "skill">Perception +2</modifier>
+        </trait>
+        <trait>
+            <name>Limber</name>
+            <text>Vishkanyas receive a +2 racial bonus on Escape Artist and Stealth checks.</text>
+            <modifier category = "skill">Escape Artist +2</modifier>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>Vishkanyas can see twice as far as humans in conditions of dim light.</text>
+        </trait>
+        <trait>
+            <name>Poison Use</name>
+            <text>Vishkanyas are skilled in the use of poison and never accidentally poison themselves when using or applying poison.</text>
+        </trait>
+        <trait>
+            <name>Toxic</name>
+            <text>A number of times per day equal to his Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that he wields with his toxic saliva or blood (using blood requires the vishkanya to be injured when he uses this ability). Applying venom in this way is a swift action. Vishkanya Venom: Injury; save Fort DC 10 + 1/2 the vishkanya’s Hit Dice + the vishkanya’s Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.</text>
+        </trait>
+        <trait>
+            <name>Weapon Familiarity</name>
+            <text>Vishkanyas are always proficient with blowguns, kukri, and shuriken.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Deceptive (Alternate Racial Traits)</name>
+            <text>Vishkanya clans that make their livings robbing or killing humans train to distract targets at critical moments. They gain a +2 racial bonus on Bluff checks. This racial trait replaces Limber.</text>
+            <modifier category = "skill">Bluff +2</modifier>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+        <trait>
+            <name>Sensual (Alternate Racial Traits)</name>
+            <text>You are trained in drawing attention to yourself. You gain a +2 bonus on any one Perform skill. This racial trait replaces keen senses.</text>
+            <modifier category = "skill">Perform +2</modifier>
+        </trait>
+        <trait>
+            <name>Subtle Appearance (Alternate Racial Traits)</name>
+            <text>You have normal (human-like) eyes, and your beauty is more conventional. You gain a +4 bonus on Disguise checks to look fully human. This racial trait replaces low-light vision.</text>
+        </trait>
+    </race>
+</compendium>

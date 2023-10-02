@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Sylph Race -->
+    <race>
+        <name>Sylph</name>
+        <ability>Dex 2</ability>
+        <ability>Int 2</ability>
+        <ability>Con -2</ability>
+        <size>M</size>
+        <speed>20</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Sylphs begin play speaking Common and Auran. Sylphs with high Intelligence scores can choose from the following: Aquan, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.</text>
+        </trait>
+        <trait>
+            <name>Energy Resistance</name>
+            <text>Sylphs have electricity resistance 5.</text>
+        </trait>
+        <trait>
+            <name>Spell-Like Ability (Sp)</name>
+            <text>Sylphs can use feather fall 1/day (caster level equals the sylph’s total level).</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Sylphs can see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Air Affinity</name>
+            <text>Sylph sorcerers with the elemental (air) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph spellcasters with the Air domain use their domain powers and spells at +1 caster level.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Air Insight (Alternate Racial Traits)</name>
+            <text>Sylph spellcasters sometimes find that their elemental heritage makes creatures of air more willing to serve them. Summon monster and summon nature’s ally spells that the Sylph casts last 2 rounds longer than normal when used to summon creatures with the air subtype. This racial trait replaces air affinity.</text>
+        </trait>
+        <trait>
+            <name>Breeze-Kissed (Alternate Racial Traits)</name>
+            <text>Breezes seem to follow most sylphs wherever they go, but some sylphs are better able to control these winds than others. A Sylph with this racial trait surrounds herself with swirling winds, gaining a +2 racial bonus to AC against non-magical ranged attacks. The Sylph can calm or renew these winds as a swift action. Once per day, the Sylph can channel this wind into a single gust, making a bull rush or trip combat maneuver attempt against one creature within 30 feet. Whether or not the attempt succeeds, the winds are exhausted and no longer provide a bonus to the sylph’s AC for 24 hours. This is a supernatural ability. This racial trait replaces air affinity.</text>
+        </trait>
+        <trait>
+            <name>Like the Wind (Alternate Racial Traits)</name>
+            <text>A sylph with this racial trait gains a +5 foot bonus to her base speed. This racial trait replaces energy resistance.</text>
+        </trait>
+        <trait>
+            <name>Mostly Human (Alternate Racial Traits)</name>
+            <text>A few sylphs have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as charm person or enlarge person). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.</text>
+        </trait>
+        <trait>
+            <name>Sky Speaker (Alternate Racial Traits)</name>
+            <text>Sylphs with this racial trait feel kinship toward the creatures of the air, and can use speak with animals once per day to speak to birds or other flying animals. Her caster level for these effects is equal to her level. This racial trait replaces the sylph’s spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Secretive (Alternate Racial Traits)</name>
+            <text>Sylphs gain a +2 racial bonus on saving throws against enchantment and divination spells and effects. This racial trait replaces energy resistance and the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Storm in the Blood (Alternate Racial Traits)</name>
+            <text>A sylph with this racial trait gains fast healing 2 for 1 round anytime she takes electricity damage (whether or not this electricity damage gets through her electricity resistance). The sylph can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces air affinity.</text>
+        </trait>
+        <trait>
+            <name>Thunderous Resilience (Alternate Racial Traits)</name>
+            <text>Sylphs with this racial trait gain sonic resistance 5. This racial trait replaces energy resistance.</text>
+        </trait>
+        <trait>
+            <name>Weather Savvy (Alternate Racial Traits)</name>
+            <text>Some sylphs are so in tune with the air and sky that they can sense the slightest change in atmospheric conditions. Sylphs with this trait can spend a full-round action to predict the weather in an area for the next 24 hours. The sylph’s prediction is always accurate, but cannot account for spells or supernatural effects that might alter the forecast. This racial trait replaces the sylph’s spell-like ability racial trait.</text>
+        </trait>
+
+        <trait>
+            <name>Whispering Wind (Alternate Racial Traits)</name>
+            <text>Some sylphs are especially thin and wispy, as though they were made more of air than flesh. Sylphs with this racial trait gain a +4 racial bonus on Stealth checks. This racial trait replaces the sylph’s spell-like ability racial trait.</text>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+
+    </race>
+</compendium>

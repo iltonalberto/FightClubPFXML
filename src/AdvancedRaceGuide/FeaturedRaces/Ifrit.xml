@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Ifrit Race -->
+    <race>
+        <name>Ifrit</name>
+        <ability>Dex 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Wis -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Ifrits begin play speaking Common and Ignan. Ifrits with high Intelligence scores can choose from the following: Aquan, Auran, Dwarven, Elven, Gnome, Halfling, and Terran.</text>
+        </trait>
+        <trait>
+            <name>Energy Resistance</name>
+            <text>Ifrits have fire resistance 5.</text>
+        </trait>
+        <trait>
+            <name>Spell-Like Ability (Sp)</name>
+            <text>Ifrits can use burning hands 1/day as a spell-like ability (caster level equals the ifrit’s level; DC 11 + Charisma modifier).</text>
+        </trait>
+        <trait>
+            <name>Fire Affinity</name>
+            <text>Ifrit sorcerers with the elemental (fire) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the Fire domain use their domain powers and spells at +1 caster level.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Ifrits can see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Brazen Flame (Alternate Racial Traits)</name>
+            <text>Ifrits sometimes flames infuse their weapons in mortal combat, rather than protect them or grant spells. An ifrit with this racial trait deals 1 point of fire damage with its melee attacks. This racial trait replaces the energy resistance and spell-like ability traits.</text>
+        </trait>
+        <trait>
+            <name>Desert Mirage (Alternate Racial Traits)</name>
+            <text>Ifrits thrive in the deserts of the world, where their keen instincts and resistance to heat give them a huge edge over their competitors. Those with this trait gain a +2 racial bonus on Stealth checks in desert environments and on saves to resist starvation and thirst. This racial trait replaces fire affinity.</text>
+        </trait>
+        <trait>
+            <name>Efreeti Magic (Alternate Racial Traits)</name>
+            <text>Some ifrits inherit an efreeti ancestor’s ability to magically change a creature’s size. They can cast either enlarge person or reduce person (the ifrit chooses when using this ability) once per day as a spell-like ability (caster level equals the ifrit’s level). The ifrit can use this ability to affect other ifrits as though they were humanoid creatures. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Fire in the Blood (Alternate Racial Traits)</name>
+            <text>Ifrits with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they take fire damage (whether or not this fire damage gets through their fire resistance). The ifrits can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces fire affinity.</text>
+        </trait>
+        <trait>
+            <name>Fire Insight (Alternate Racial Traits)</name>
+            <text>ifrit spellcasters sometimes find that their elemental heritage makes creatures of fire more willing to serve them. Summon monster and summon nature’s ally spells that the ifrit casts last 2 rounds longer than normal when used to summon creatures with the fire subtype. This racial trait replaces fire affinity.</text>
+        </trait>
+        <trait>
+            <name>Fire-Starter (Alternate Racial Traits)</name>
+            <text>Ifrits with this racial trait derive sadistic satisfaction from watching others burn. Anytime the ifrit causes a creature to catch fire, he gains a +1 morale bonus on the next single attack roll, saving throw, skill check, or ability check that he makes in the next round. The ifrit only gains this bonus the first time he causes a particular creature to catch fire; subsequent times the creature catches fire provide no bonus. This racial trait replaces fire affinity.</text>
+        </trait>
+        <trait>
+            <name>Forge-Hardened (Alternate Racial Traits)</name>
+            <text>Not all ifrits are descended from efreet—some instead descend from azers or even salamanders. Such ifrits gain a +2 racial bonus on Craft (armor and weapons) checks and saves to resist fatigue and exhaustion. This racial trait replaces the spell-like ability racial trait.</text>
+            <modifier category = "skill">Craft (armor) +2</modifier>
+            <modifier category = "skill">Craft (weapons) +2</modifier>
+        </trait>
+        <trait>
+            <name>Hypnotic (Alternate Racial Traits)</name>
+            <text>Ifrits with this racial trait evoke the entrancing nature of flame, adding +1 to the DC for all saving throws against spells or effects they cast that inflict the fascinated condition. Once per day, when a creature rolls a saving throw against such an effect from the ifrit, the ifrit can spend an immediate action to force that creature to reroll the saving throw and use the second result, even if it is worse. The ifrit must announce he is using this ability before the results of the first roll are revealed. This racial trait replaces fire affinity.</text>
+        </trait>
+        <trait>
+            <name>Mostly Human (Alternate Racial Traits)</name>
+            <text>A few ifrits have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as charm person or enlarge person). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.</text>
+        </trait>
+        <trait>
+            <name>Wildfire Heart (Alternate Racial Traits)</name>
+            <text>Ifrits with this trait are as swift and dangerous as a blazing wildfire. They gain a +4 racial bonus on initiative checks. This racial trait replaces energy resistance.</text>
+            <modifier category = "bonus">Initiative +4</modifier>
+        </trait>
+    </race>
+</compendium>

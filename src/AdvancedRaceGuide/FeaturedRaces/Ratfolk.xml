@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Ratfolk Race -->
+    <race>
+        <name>Ratfolk</name>
+        <ability>Dex 2</ability>
+        <ability>Int 2</ability>
+        <ability>Str -2</ability>
+        <size>S</size>
+        <speed>20</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Ratfolk begin play speaking Common. Ratfolk with high Intelligence scores can choose from the following
+                Aklo, Draconic, Dwarven, Gnoll, Gnome, Goblin, Halfling, Orc, and Undercommon.</text>
+        </trait>
+        <trait>
+            <name>Tinker</name>
+            <text>Ratfolk gain a +2 racial bonus on Craft (alchemy), Perception, and Use Magic Device checks.</text>
+            <modifier category = "skill">Craft (alchemy) +2</modifier>
+            <modifier category = "skill">Perception +2</modifier>
+            <modifier category = "skill">Use Magic Device +2</modifier>
+        </trait>
+        <trait>
+            <name>Rodent Empathy</name>
+            <text>Ratfolk gain a +4 racial bonus on Handle Animal checks made to influence rodents.</text>
+        </trait>
+        <trait>
+            <name>Swarming</name>
+            <text>Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes’ detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Ratfolk can see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Cornered Fury (Alternate Racial Traits)</name>
+            <text>Ratfolk can fight viciously when cut off from friends and allies. Whenever a ratfolk with this racial trait is reduced to half or fewer of his hit points, and has no conscious ally within 30 feet, he gains a +2 racial bonus on melee attack rolls and to Armor Class. This racial trait replaces swarming.</text>
+        </trait>
+
+        <trait>
+            <name>Market Dweller (Alternate Racial Traits)</name>
+            <text>Some ratfolk are practiced at taking advantage of foes. They gain a +2 racial bonus on Bluff, Sense Motive, and Sleight of Hand checks. This racial trait replaces tinker.</text>
+            <modifier category = "skill">Bluff +2</modifier>
+            <modifier category = "skill">Sense Motive +2</modifier>
+            <modifier category = "skill">Sleight of Hand +2</modifier>
+        </trait>
+
+        <trait>
+            <name>Scent (Alternate Racial Traits)</name>
+            <text>Some ratfolk have much more strongly developed senses of smell, instead of keen eyes and ears. These ratfolk have the scent ability, but take a –2 penalty on all Perception checks based primarily on sight or hearing. This racial trait replaces tinker.</text>
+        </trait>
+        
+        <trait>
+            <name>Skulk (Alternate Racial Traits)</name>
+            <text>Some ratfolk can blend easily into their environments, and move with surprising grace. Ratfolk gain a +2 racial bonus on Stealth checks, and take only a –5 penalty on Stealth checks made to hide from creatures they have distracted with a Bluff check (rather than the normal –10 penalty). This racial trait replaces tinker.</text>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+
+        <trait>
+            <name>Unnatural (Alternate Racial Traits)</name>
+            <text>Some ratfolk unnerve normal animals, and train to defend themselves against the inevitable attacks from such creatures. These ratfolk take a –4 penalty on all Charisma-based skill checks to affect creatures of the animal type, and receive a +2 dodge bonus to AC against animals. An animal’s starting attitude toward ratfolk is one step worse than normal. This racial trait replaces rodent empathy.</text>
+        </trait>
+
+    </race>
+</compendium>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Svirfneblin Race -->
+    <race>
+        <name>Svirfneblin</name>
+        <ability>Str -2</ability>
+        <ability>Dex 2</ability>
+        <ability>Wis 2</ability>
+        <ability>Cha -4</ability>
+        <size>S</size>
+        <speed>20</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Svirfneblin begin play speaking Gnome and Undercommon. Those with high Intelligence scores can choose from the following: Aklo, Common, Draconic, Dwarven, Elven, Giant, Goblin, Orc, and Terran.</text>
+        </trait>
+        <trait>
+            <name>Defensive Training</name>
+            <text>Svirfneblin gain a +2 dodge bonus to Armor Class.</text>
+            <modifier category = "bonus">Armor Class +2</modifier>
+        </trait>
+        <trait>
+            <name>Fortunate</name>
+            <text>Svirfneblin gain a +2 racial bonus on all saving throws.</text>
+            <modifier category = "bonus">Saving Throws +2</modifier>
+        </trait>
+        <trait>
+            <name>Spell Resistance</name>
+            <text>Svirfneblin have spell resistance (SR) equal to 11 + their class levels.</text>
+        </trait>
+        <trait>
+            <name>Skills</name>
+            <text>Svirfneblin gain a +2 racial bonus on Stealth checks; this improves to a +4 bonus underground. They gain a +2 racial bonus on Craft (alchemy) checks and Perception checks.</text>
+            <modifier category = "skill">Stealth +2</modifier>
+            <modifier category = "skill">Craft (alchemy) +2</modifier>
+            <modifier category = "skill">Perception +2</modifier>
+        </trait>
+        <trait>
+            <name>Stonecunning</name>
+            <text>Svirfneblin gain stonecunning (as dwarves)</text>
+        </trait>
+        <trait>
+            <name>Svirfneblin Magic</name>
+            <text>Svirfneblin add +1 to the DC of any illusion spells they cast. Svirfneblin also gain the following spell-like abilities: Constant—nondetection; 1/day—blindness/deafness (DC 12 + Charisma modifier), blur, disguise self; caster level equals the svirfneblin’s class levels.</text>
+        </trait>
+        <trait>
+            <name>Hatred</name>
+            <text>Svirfneblin receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and dwarf subtypes due to training against these hated foes.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Svirfneblin can see perfectly in the dark up to 120 feet.</text>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>In addition to their ability to see perfectly in the dark up to 60 ft, svirfneblin have low-light vision, allowing them to see twice as far as humans in conditions of dim light.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Healthy (Alternate Racial Traits)</name>
+            <text>Svirfneblin gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases. This racial trait replaces fortunate.</text>
+        </trait>
+        <trait>
+            <name>Stalwart Watcher (Alternate Racial Traits)</name>
+            <text>Some svirfneblin seek to thwart the schemes of evil fey. Those who still keep to this mission gain a +1 racial bonus on attack rolls against fey creatures and a +2 racial bonus on saving throws against mind-affecting effects. This racial trait replaces hatred and skilled.</text>
+        </trait>
+        <trait>
+            <name>Stoneseer (Alternate Racial Traits)</name>
+            <text>Svirfneblin add +1 to the caster level of any spells with the earth descriptor they cast. Svirfneblin also gain the following spell-like abilities: Constant—nondetection; 1/day—magic stone, stone shape, stone tell; caster level equals the svirfneblin’s class levels. This racial trait replaces Svirfneblin magic.</text>
+        </trait>
+    </race>
+</compendium>

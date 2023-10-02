@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Strix Race -->
+    <race>
+        <name>Strix</name>
+        <ability>Dex 2</ability>
+        <ability>Cha -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Strix begin play speaking Strix. Those with high Intelligence scores can choose from the following: Auran, Common, Draconic, Giant, Gnome, Goblin, Infernal. See the Linguistics skill page for more information about these languages.</text>
+        </trait>
+        <trait>
+            <name>Nocturnal</name>
+            <text>Strix gain a +2 racial bonus on Perception and Stealth checks in dim light or darkness.</text>
+            <modifier category = "skill">Perception +2</modifier>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+        <trait>
+            <name>Suspicious</name>
+            <text>Strix receive a +2 racial bonus on saving throws against illusion spells and effects.</text>
+        </trait>
+        <trait>
+            <name>Hatred</name>
+            <text>Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the human subtype because of their special training against these hated foes.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Strix see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>In addition to their ability to see perfectly in the dark up to 60 ft, Strix have low-light vision, allowing them to see twice as far as humans in conditions of dim light..</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Cautious Brawler (Alternate Racial Traits)</name>
+            <text>Because strix are careful to avoid injuring other strix even when they fight with each other, they develop a talent for fighting without causing lasting harm. They gain a +1 racial bonus on damage rolls when dealing nonlethal damage and take no attack penalty when dealing nonlethal damage with a lethal weapon. This racial trait replaces hatred and suspicious.</text>
+        </trait>
+        <trait>
+            <name>Dayguard (Alternate Racial Traits)</name>
+            <text>Familiar with watching over its tribe during the day, the strix gains a +2 racial bonus on Perception checks and treats Perception as a class skill. This racial trait replaces nocturnal.</text>
+            <modifier category = "skill">Perception +2</modifier>
+        </trait>
+        <trait>
+            <name>Frightening (Alternate Racial Traits)</name>
+            <text>The strix looks particularly menacing and use this to its advantage, gaining a +2 racial bonus on Intimidate checks. This racial trait replaces nocturnal.</text>
+            <modifier category = "skill">Intimidate +2</modifier>
+        </trait>
+        <trait>
+            <name>Nimble (Alternate Racial Traits)</name>
+            <text>The strix receives a +1 racial bonus on Reflex saves. This replaces the suspicious racial trait.</text>
+            <modifier category = "bonus">Reflex +1</modifier>
+        </trait>
+        <trait>
+            <name>Tough (Alternate Racial Traits)</name>
+            <text>The strix receives a +1 racial bonus on Fortitude saves. This racial trait replaces suspicious.</text>
+            <modifier category = "bonus">Fortitude +1</modifier>
+        </trait>
+        <trait>
+            <name>Wing-Clipped (Alternate Racial Traits)</name>
+            <text>The flight of wing-clipped strix is weaker than normal, whether from deformity or injury. Their fly speed is 20 feet (poor) instead of the normal fly speed, and they must make a DC 30 Fly check to fly upward. Ostracized by their tribes and forced to deal with other races, these strix compensate for their weakness by gaining a +2 racial bonus on Bluff, Climb, and Diplomacy checks.</text>
+            <modifier category = "skill">Bluff +2</modifier>
+            <modifier category = "skill">Climb +2</modifier>
+            <modifier category = "skill">Diplomacy +2</modifier>
+        </trait>
+    </race>
+</compendium>

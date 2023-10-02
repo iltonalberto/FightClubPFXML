@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Oread Race -->
+    <race>
+        <name>Oread</name>
+        <ability>Str 2</ability>
+        <ability>Wis 2</ability>
+        <ability>Cha -2</ability>
+        <size>M</size>
+        <speed>20</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Oreads begin play speaking Common and Terran. Oreads with high Intelligence scores can choose from the following: Aquan, Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Undercommon.</text>
+        </trait>
+        <trait>
+            <name>Energy Resistance</name>
+            <text>Oreads have acid resistance 5.</text>
+        </trait>
+        <trait>
+            <name>Spell-Like Ability (Sp)</name>
+            <text>Oread can use magic stone 1/day (caster level equals the oread‘s total level; DC 11 + Charisma modifier).</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Oreads can see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Earth Affinity</name>
+            <text>Oread sorcerers with the elemental (earth) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Earth domain use their domain powers and spells at +1 caster level.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Crystalline Form (Alternate Racial Traits)</name>
+            <text>Oreads with this trait gain a +2 racial bonus to AC against rays thanks to their reflective crystalline skin. In addition, once per day, they can deflect a single ray attack targeted at them as if they were using the Deflect Arrows feat. This racial trait replaces earth affinity.</text>
+        </trait>
+        <trait>
+            <name>Earth Insight (Alternate Racial Traits)</name>
+            <text>Oread spellcasters sometimes find that their elemental heritage makes creatures of earth more willing to serve them. Summon monster and summon nature’s ally spells that such oreads cast last 2 rounds longer than normal when used to summon creatures with the earth subtype. This racial trait replaces earth affinity.</text>
+        </trait>
+        <trait>
+            <name>Ferrous Growth (Alternate Racial Traits)</name>
+            <text>Oreads with this racial trait learn how to mimic the magic of their shaitan ancestors. Once per day, such an oread can cause a touched piece of non-magical iron or steel to grow into an object up to 10 pounds in weight, such as a sword, crowbar, or light steel shield. This object remains in this form for 10 minutes or until broken or destroyed, at which point it shrinks back to its original size and shape. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Fertile Soil (Alternate Racial Traits)</name>
+            <text>Oread sorcerers with the verdant bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Plant domain use their domain powers and spells at +1 caster level. This racial trait replaces earth affinity.</text>
+        </trait>
+        <trait>
+            <name>Granite Skin (Alternate Racial Traits)</name>
+            <text>Rocky growths cover the skin of oreads with this racial trait. They gain a +1 racial bonus to natural armor. This racial trait replaces energy resistance.</text>
+            <modifier category = "bonus">Natural Armor +1</modifier>
+        </trait>
+        <trait>
+            <name>Isolated (Alternate Racial Traits)</name>
+            <text>Many oreads are loners and raise their families in isolated groups, either in deep caverns or high mountains. They gain a +2 racial bonus on Perception checks and Knowledge (dungeoneering) checks, and they can use Knowledge (dungeoneering) untrained. They begin play speaking only Terran, rather than Common and Terran. This racial trait replaces energy resistance and alters the oread’s starting languages.</text>
+            <modifier category = "skill">Perception +2</modifier>
+            <modifier category = "skill">Knowledge (dungeoneering) +2</modifier>
+        </trait>
+        <trait>
+            <name>Mountain-Born (Alternate Racial Traits)</name>
+            <text>Oreads are drawn to mountains and other high places, and after many generations they’ve grown well suited to their environment. Oreads with this racial trait gain a +2 racial bonus on Acrobatics checks made to cross narrow ledges and on saves against altitude fatigue and sickness. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Mostly Human (Alternate Racial Traits)</name>
+            <text>A few oreads have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as charm person or enlarge person). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.</text>
+        </trait>
+        <trait>
+            <name>Oread Gem Magic (1 RP) (Alternate Racial Traits)</name>
+            <text>Oreads’ proclivity for long spans of study and concentration makes them natural wizards, witches, and oracles. Oreads with this racial trait can augment their earth-related spells and spell-like abilities through the use of precious and semiprecious gemstones as additional material components. The gems are destroyed in the process, granting the spell the listed effects in addition to its normal effects unless otherwise noted. Only one instance of oread gem magic can be applied to a spell at a time; excess expended gems do not stack. This racial trait replaces the earth affinity racial trait.</text>
+        </trait>
+        <trait>
+            <name>Stone in the Blood (Alternate Racial Traits)</name>
+            <text>Oreads with this racial trait mimic the healing abilities of the mephits, gaining fast healing 2 for 1 round anytime they are subject to acid damage (the acid damage does not need to overcome the oread’s resistances or immunities to activate this ability). The oread can heal up to 2 hit points per level per day with this ability, after which it ceases to function. This racial trait replaces earth affinity.</text>
+        </trait>
+        <trait>
+            <name>Treacherous Earth (Alternate Racial Traits)</name>
+            <text>Once per day, an oread with this racial trait can will the earth to rumble and shift, transforming a 10-foot-radius patch of earth, unworked stone, or sand into an area of difficult terrain, centered on an area the oread touches. This lasts for a number of minutes equal to the oread’s level, after which the ground returns to normal. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+    </race>
+</compendium>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Tiefling Race -->
+    <race>
+        <name>Tiefling</name>
+        <ability>Dex 2</ability>
+        <ability>Int 2</ability>
+        <ability>Cha -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Tieflings begin play speaking Common and either Abyssal or Infernal. Tieflings with high intelligence scores can choose from the following: Abyssal, Draconic, Dwarven, Elven, Gnome, Goblin, Halfling, Infernal, and Orc.</text>
+        </trait>
+        <trait>
+            <name>Fiendish Resistance</name>
+            <text>Tieflings have cold resistance 5, electricity resistance 5, and fire resistance 5.</text>
+        </trait>
+        <trait>
+            <name>Skilled</name>
+            <text>Tieflings gain a +2 racial bonus on Bluff and Stealth checks.</text>
+            <modifier category = "skill">Bluff +2</modifier>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+        <trait>
+            <name>Spell-like ability</name>
+            <text>Tieflings can use darkness once per day as a spell-like ability. The caster level for this ability equals the tiefling’s class level.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Tieflings can see perfectly in the dark for up to 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Fiendish Sorcery</name>
+            <text>Tiefling sorcerers with the Abyssal or Infernal bloodlines treat their Charisma score as 2 points higher for all sorcerer class abilities.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Beguiling Liar (Alternate Racial Traits)</name>
+            <text>Many tieflings find that the best way to get along in the world is to tell others what they want to hear. These tieflings’ practice of telling habitual falsehoods grants them a +4 racial bonus on Bluff checks to convince an opponent that what they are saying is true when they tell a lie. This racial trait replaces skilled.</text>
+            <modifier category = "skill">Bluff +4</modifier>
+        </trait>
+        <trait>
+            <name>Bullying (Alternate Racial Traits)</name>
+            <text>Tieflings are often disparaged and kept low in the social order, where they commonly resort to robbing those weaker than themselves. Tieflings with this racial trait gain a +1 racial bonus on combat maneuver checks to disarm or steal. This racial trait replaces skilled.</text>
+        </trait>
+        <trait>
+            <name>Fiendish Sprinter (Alternate Racial Traits)</name>
+            <text>Some tieflings have feet that are more bestial than human. Whether their feet resemble those of a clawed predator or are the cloven hooves common to many of their kind, tieflings with this trait gain a 10-foot racial bonus to their speed when using the charge, run, or withdraw actions. This racial trait replaces skilled.</text>
+        </trait>
+        <trait>
+            <name>Light from the Darkness (Alternate Racial Traits)</name>
+            <text>Tieflings who deny the evil of their heritage to go on to become heroes refuse to use the dark magic of their blood, but their struggle grants them uncanny resilience against evil’s touch. As long as they retain a good alignment, they gain the aasimar’s incorruptible alternate racial trait. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Maw or Claw (Alternate Racial Traits)</name>
+            <text>Some tieflings take on the more bestial aspects of their fiendish ancestors. These tieflings exhibit either powerful, toothy maws or dangerous claws. The tiefling can choose a bite attack that deals 1d6 points of damage or two claws that each deal 1d4 points of damage. These attacks are primary natural attacks. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Pass for Human (Alternate Racial Traits)</name>
+            <text>Discrimination against tieflings with horrifically fiendish features is so intense that even tieflings look up to those precious few of their kind who can pass as human. These tieflings have otherworldly features that are so subtle, they aren’t often noticed unless the tiefling points them out (for example, eyes that flash red in the throes of passion, or fingernails that are naturally hard and pointed). Such a tiefling doesn’t need to succeed at a Disguise check to appear to be human and count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells like charm person or enlarge person). The tiefling does not automatically gain his associated outsider language (but may select it as a bonus language if his Intelligence score is high enough), and he may not select other racial traits that would grant him obviously fiendish features (such as the fiendish sprinter, maw or claw, prehensile tail, scaled skin, or vestigial wings alternate racial traits). This ability alters the tiefling’s type, subtype, and languages.</text>
+        </trait>
+        <trait>
+            <name>Prehensile Tail (Alternate Racial Traits)</name>
+            <text>Many tieflings have tails, but some have long, flexible tails that can be used to carry items. While they cannot wield weapons with their tails, they can use them to retrieve small, stowed objects carried on their persons as a swift action. This racial trait replaces fiendish sorcery.</text>
+        </trait>
+        <trait>
+            <name>Scaled Skin (Alternate Racial Traits)</name>
+            <text>The skin of these tieflings provides some energy resistance, but is also as hard as armor. Choose one of the following energy types: cold, electricity, or fire. A tiefling with this trait gains resistance 5 in the chosen energy type and also gains a +1 natural armor bonus to AC. This racial trait replaces fiendish resistance.</text>
+            <modifier category = "bonus">Natural Armor +1</modifier>
+        </trait>
+        <trait>
+            <name>Smite Good (Alternate Racial Traits)</name>
+            <text>Once per day, a tiefling with this racial trait can smite a good-aligned creature. As a swift action, the tiefling chooses one target within sight to smite. If this target is good, the tiefling adds her Charisma bonus (if any) to attack rolls against the target and gains a bonus on damage rolls against the target equal to her number of Hit Dice. This effect lasts until the first time the tiefling successfully hits her designated target. This racial trait replaces fiendish sorcery and the tiefling’s spell-like ability.</text>
+        </trait>
+        <trait>
+            <name>Soul Seer (Alternate Racial Traits)</name>
+            <text>Rare tieflings have a peculiar sight that allows them to see the state of a creature’s soul. They can use deathwatch at will as spell-like ability. This racial trait replaces the spell-like ability and fiendish sorcery racial traits.</text>
+        </trait>
+        <trait>
+            <name>Underworld Guide (2 RP) (Alternate Racial Traits)</name>
+            <text>Those who brave the lightless tunnels below the world’s surface learn to identify the dangerous phenomena that characterize the Underworld. Characters with this trait gain a +2 bonus on initiative checks, and on saves against traps and hazards when underground (from a lifetime of dodging accursed pools, cave-ins, and green slime). Tieflings can take this trait in place of the darkness spell-like ability.</text>
+            <modifier category = "bonus">Initiative +2</modifier>
+        </trait>
+        <trait>
+            <name>Vestigial Wings (Alternate Racial Traits)</name>
+            <text>Some tieflings possess a pair of undersized, withered, or stunted wings like a mockery of those of their fiendish forbearer. Sometimes these wings are leathery, like those of a bat. Other times they are covered with a scattering of black, red, or violet feathers. Rare manifestations can take even more bizarre forms. These wings do not provide the lift required for actual flight, but do have enough power to aid flight attained by some other method, and grant a +4 racial bonus on Fly skill checks. This racial trait replaces skilled.</text>
+        </trait>
+
+    </race>
+</compendium>

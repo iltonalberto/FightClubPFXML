@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Catfolk Race -->
+    <race>
+        <name>Catfolk</name>
+        <ability>Dex 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Wis -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Catfolk begin play speaking Common and Catfolk. Catfolk with high Intelligence scores can choose from the following languages: Elven, Gnoll, Gnome, Goblin, Halfling, Orc, and Sylvan.</text>
+        </trait>
+        <trait>
+            <name>Cat’s Luck (Ex)</name>
+            <text>Once per day when a catfolk makes a Reflex saving throw, he can roll the saving throw twice and take the better result. He must decide to use this ability before the saving throw is attempted.</text>
+        </trait>
+        <trait>
+            <name>Natural Hunter</name>
+            <text>Catfolk receive a +2 racial bonus on Perception, Stealth, and Survival checks.</text>
+            <modifier category = "skill">Perception +2</modifier>
+            <modifier category = "skill">Stealth +2</modifier>
+            <modifier category = "skill">Survival +2</modifier>
+        </trait>
+        <trait>
+            <name>Sprinter</name>
+            <text>Catfolk gain a 10-foot racial bonus to their speed when using the charge, run, or withdraw actions.</text>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>Catfolk have low-light vision allowing them to see twice as far as humans in dim light.</text>
+        </trait>
+        <trait>
+            <name>Cat’s Claws (Alternate Racial Traits)</name>
+            <text>Some catfolk have stronger and more developed claws than other members of their race, and can use them to make attacks. Catfolk with this racial trait have a pair of claws they can use as natural weapons. These claws are primary attacks that deal 1d4 points of damage. This racial trait replaces natural hunter.</text>
+        </trait>
+        <trait>
+            <name>Clever Cat (Alternate Racial Traits)</name>
+            <text>Catfolk’s generally friendly disposition doesn’t preclude craftiness. Some of them see social obstacles as games to be played and won. These catfolk receive a +2 racial bonus on Bluff, Diplomacy, and Sense Motive checks. This racial trait replaces natural hunter.</text>
+            <modifier category = "skill">Bluff +2</modifier>
+            <modifier category = "skill">Diplomacy +2</modifier>
+            <modifier category = "skill">Sense Motive +2</modifier>
+        </trait>
+        <trait>
+            <name>Climber (Alternate Racial Traits)</name>
+            <text>Catfolk hunters excel at hunting prey from trees and other high vantage points. Catfolk with this racial trait possess a climb speed of 20 feet (along with the +8 racial bonus on Climb checks a climb speed affords). This racial trait replaces sprinter.</text>
+        </trait>
+        <trait>
+            <name>Curiosity (Alternate Racial Traits)</name>
+            <text>Catfolk are naturally inquisitive about the world around them, though some are more curious than others. Such catfolk gain a +4 bonus on Diplomacy checks to gather information, and Knowledge (history) and Knowledge (local) are always class skills for them. If they choose a class that has either of these Knowledge skills as class skills, they gain a +2 racial bonus on those skills instead. This racial trait replaces natural hunter.</text>
+        </trait>
+        <trait>
+            <name>Jungle Stalker (Alternate Racial Traits)</name>
+            <text>Catfolk often live in deeply forested terrain and they have become naturally sure-footed to maintain their hunting prowess in these dangerous environments. Such catfolk gain a +2 racial bonus on Acrobatics checks and can ignore the first square of difficult terrain caused by foliage each round. This racial trait replaces cat’s luck and sprinter.</text>
+            <modifier category = "skill">Acrobatics +2</modifier>
+        </trait>
+        <trait>
+            <name>Nimble Faller (Alternate Racial Traits)</name>
+            <text>Some catfolk have an amazing sense of balance and keen knowledge of their own center of gravity. Catfolk with this trait land on their feet even when they take lethal damage from a fall. Furthermore, catfolk with this trait gain a +1 bonus to their CMD against trip maneuvers. This racial trait replaces sprinter.</text>
+        </trait>
+        <trait>
+            <name>Scent (Alternate Racial Traits)</name>
+            <text>Some catfolk favor a keen sense of smell over sensitive sight. Catfolk with this racial trait gain the scent ability. This racial trait replaces the low-light vision racial trait.</text>
+        </trait>
+    </race>
+</compendium>

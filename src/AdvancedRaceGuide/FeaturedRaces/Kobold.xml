@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Kobold Race -->
+    <race>
+        <name>Kobold</name>
+        <ability>Dex 2</ability>
+        <ability>Str -4</ability>
+        <ability>Con -4</ability>
+        <size>S</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Kobolds begin play speaking only Draconic. Kobolds with high Intelligence scores can choose from the following: Common, Dwarven, Gnome, and Undercommon.</text>
+        </trait>
+        <trait>
+            <name>Armor</name>
+            <text>Kobolds naturally scaly skin grants them a +1 natural armor bonus.</text>
+            <modifier category = "bonus">Natural Armor +1</modifier>
+        </trait>
+        <trait>
+            <name>Crafty</name>
+            <text>Kobolds gain a +2 racial bonus on Craft (trapmaking), Perception, and Profession (miner) checks. Craft (trapmaking) and Stealth are always class skills for a kobold.</text>
+            <modifier category = "skill">Craft (trapmaking) +2</modifier>
+            <modifier category = "skill">Profession (miner) +2</modifier>
+            <modifier category = "skill">Perception +2</modifier>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Kobolds can see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Light Sensitivity</name>
+            <text>Kobolds lives in darkness have caused them to suffer from light sensitivity.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Beast Bond (Alternate Racial Traits)</name>
+            <text>Some kobolds have a talent for training animals and beasts to help them both on and off the battlefield. Kobolds with this racial trait gain a +2 racial bonus on Handle Animal and Ride checks. Handle Animal and Ride are always class skills for them. This racial trait replaces crafty.</text>
+            <modifier category = "skill">Handle Animal +2</modifier>
+            <modifier category = "skill">Ride +2</modifier>
+        </trait>
+        <trait>
+            <name>Day Raider (Alternate Racial Traits)</name>
+            <text>You’re one of the few kobolds born with a greater tolerance for sunlight. You don’t have light sensitivity, and you have low-light vision instead of darkvision. This racial trait replaces light sensitivity and darkvision.</text>
+        </trait>
+        <trait>
+            <name>Dragon Affinity (Alternate Racial Traits)</name>
+            <text>Kobold sorcerers with the draconic bloodline or kobold bloodline treat their Charisma scores as 2 points higher for all sorcerer spells and class abilities. This racial trait replaces the armor trait.</text>
+        </trait>
+        <trait>
+            <name>Dragonmaw (Alternate Racial Traits)</name>
+            <text>Your draconic heritage makes you smile- not just because it makes you happy, but also because your powerful teeth and jaws are proof of your kinship with a chromatic dragon. You gain a bite attack that deals 1d4 points of damage. Once per day, you can deal 1d6 points of additional energy damage with your bite attack. The damage type depends on your scale color: acid for black or green; electricity for blue; fire for red; cold for white. If you have a different scale color, you still gain a bite attack, but cannot deal the additional energy damage. This racial traits replaces the armor racial trait.</text>
+        </trait>
+        <trait>
+            <name>Dragon-Scaled (Alternate Racial Traits)</name>
+            <text>Some kobolds are hatched with scales of such vivid color that their connection to a particular sort of chromatic dragon seems undeniable. Whether this coloration is just a quirk of a stray egg or a trait shared by all the members of a tribe, these kobolds gain a resistance that makes them especially suited to work alongside dragons matching the color of the kobold’s scales. Black-scaled and green-scaled kobolds with this racial trait gain acid resistance 5. Blue-scaled kobolds with this racial trait gain electricity resistance 5. Red-scaled kobolds with this racial trait gain fire resistance 5. White-scaled kobolds with this racial trait gain cold resistance 5. This racial trait replaces the armor racial trait.</text>
+        </trait>
+        <trait>
+            <name>Echo Whistler (Alternate Racial Traits)</name>
+            <text>By observing the noises in underground tunnels, you learned to uncannily mimic any voice or sound you heard. Three times per day, you can attempt to trick someone in this way by making a Bluff check against the listener’s Sense Motive check. You get a +2 circumstance bonus on this check if you’re in tunnels or other structures where your voice can echo. This racial trait replaces crafty.</text>
+        </trait>
+        <trait>
+            <name>Frightener (Alternate Racial Traits)</name>
+            <text>Like the great dragons, you can strike fear in the hearts of your foes with your majestic presence. Few enemies suspect that you make yourself look more dangerous with simple tricks you learned back when you were newly hatched. You gain a +1 racial bonus to the DC of saving throws against spells you cast with the fear descriptor. This racial trait replaces the armor racial trait.</text>
+        </trait>
+        <trait>
+            <name>Gliding Wings (Alternate Racial Traits)</name>
+            <text>Some kobolds are born with wings that, while too weak for actual flying, do allow them to fall at a very slow and safe pace. A kobold with wings can use them to glide. It can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using feather fall. When falling safely, it may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet it falls. This racial trait replaces crafty.</text>
+        </trait>
+        <trait>
+            <name>Jester (Alternate Racial Traits)</name>
+            <text>Some kobolds swallow their pride and survive by groveling, placating, and amusing the powerful. Kobolds with this racial trait gain a +2 racial bonus on Diplomacy and Perform checks. Diplomacy and Perform are always class skills for them. This racial trait replaces crafty.</text>
+            <modifier category = "skill">Diplomacy +2</modifier>
+            <modifier category = "skill">Perform +2</modifier>
+        </trait>
+        <trait>
+            <name>Prehensile Tail (Alternate Racial Traits)</name>
+            <text>Your tail is especially flexible and strong, so you’ve learned to use it for both movement and simple tricks. You gain a +2 racial bonus on Acrobatics and Climb checks, and you can use your tail to draw a hidden weapon as a move action instead of as a standard action. This racial trait replaces the armor racial trait.</text>
+            <modifier category = "skill">Acrobatics +2</modifier>
+            <modifier category = "skill">Climb +2</modifier>
+        </trait>
+        <trait>
+            <name>Secret Strider (Alternate Racial Traits)</name>
+            <text>You have the ability to traverse the wilderness without a trace. Twice per day, you can move through natural surroundings without leaving a trail for 1 minute, increasing the DC of any attempts to track you by 10. This racial trait replaces crafty.</text>
+        </trait>
+        <trait>
+            <name>Shoulder to Shoulder (Alternate Racial Traits)</name>
+            <text>Having lived and worked in close quarters with your tribe-mates, you’ve learned how to maneuver within their personal space without disturbing them. You can occupy the same space as one other Small ally without penalty. If you share a space with another kobold who has this trait, you each gain a +1 circumstance bonus to AC, as you help jostle one another out of the way of incoming attacks. You also gain a +1 racial bonus on aid another rolls. This racial trait replaces crafty.</text>
+        </trait>
+        <trait>
+            <name>Spellcaster Sneak (Alternate Racial Traits)</name>
+            <text>Traversing the tunnels near big, nasty, hungry creatures, you learned to keep quiet- and to keep your spells quiet too. You gain a +2 racial bonus on Stealth checks, and once per day you can gain the benefit of the Silent Spell feat on a spell you cast. This racial trait replaces crafty.</text>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+        <trait>
+            <name>Wild Forest Kobold (Alternate Racial Traits)</name>
+            <text>You’re one of the barbaric kobolds dwelling in the forests of the surface world. Your culture shuns artifice, but teaches how to endure the hunt. You gain a +2 racial bonus on Perception and Survival checks, and Stealth and Survival are always class skills for you. This racial trait replaces crafty.</text>
+            <modifier category = "skill">Perception +2</modifier>
+            <modifier category = "skill">Survival +2</modifier>
+        </trait>
+        <trait>
+            <name>Wyrmcrowned (Alternate Racial Traits)</name>
+            <text>Your horns have grown to the extent that they appear similar to those of a dragon who shares your scale color, lending a draconic power or menace to your dealings with others. Choose either Diplomacy or Intimidate. You gain a +2 racial bonus on checks with that skill, and it is always a class skill for you. This racial trait replaces crafty.</text>
+        </trait>
+    </race>
+</compendium>

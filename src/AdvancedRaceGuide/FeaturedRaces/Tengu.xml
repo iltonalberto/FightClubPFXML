@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Tengu Race -->
+    <race>
+        <name>Tengu</name>
+        <ability>Dex 2</ability>
+        <ability>Wis 2</ability>
+        <ability>Con -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Tengus begin play speaking Common and Tengu. Tengus with high Intelligence scores can choose any languages they want (except for secret languages, such as Druidic).</text>
+        </trait>
+        <trait>
+            <name>Sneaky</name>
+            <text>Tengus gain a +2 racial bonus on Perception and Stealth checks.</text>
+            <modifier category = "skill">Perception +2</modifier>
+            <modifier category = "skill">Stealth +2</modifier>
+        </trait>
+        <trait>
+            <name>Gifted Linguist</name>
+            <text>Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language.</text>
+            <modifier category = "skill">Linguistics +2</modifier>
+        </trait>
+        <trait>
+            <name>Swordtrained</name>
+            <text>Tengus are trained from birth in swordplay, and as a result are automatically proficient with sword-like weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).</text>
+        </trait>
+        <trait>
+            <name>Natural Weapons</name>
+            <text>A tengu has a bite attack that deals 1d3 points of damage.</text>
+        </trait>
+        <trait>
+            <name>Senses</name>
+            <text>Tengus have low-light vision allowing them to see twice as far as humans in conditions of dim light.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Carrion Sense (Alternate Racial Traits)</name>
+            <text>Many tengus have a natural ability to sniff out carrion. While their sense of smell isn’t as keen as that of other species, it is particularly attuned to the scent of injuries or death. Tengus with this racial trait have a limited scent ability, which only functions for corpses and badly wounded creatures (50% or fewer hit points). This racial trait replaces gifted linguist.</text>
+        </trait>
+        <trait>
+            <name>Claw Attack (Alternate Racial Traits)</name>
+            <text>Tengus with this racial trait have learned to use their claws as natural weapons. They gain two claw attacks as primary natural attacks that deal 1d3 points of damage, and are treated as having the Improved Unarmed Strike feat for the purpose of qualifying for other feats. This racial trait replaces swordtrained.</text>
+        </trait>
+        <trait>
+            <name>Deft Swords (Alternate Racial Traits)</name>
+            <text>Some tengu learn dazzling blade techniques that allow them to use their weapons to protect against combat maneuvers. They gain a +2 dodge bonus to CMD while wielding a swordlike weapon. This racial trait replaces natural weapon and sneaky.</text>
+        </trait>
+        <trait>
+            <name>Exotic Weapon Training (Alternate Racial Traits)</name>
+            <text>Instead of swords, some tengus are trained in exotic weaponry. Such tengus choose a number of eastern weapons equal to 3 + their Intelligence bonus, and gain proficiency with these weapons. This racial trait replaces swordtrained.</text>
+        </trait>
+        <trait>
+            <name>Glide (Alternate Racial Traits)</name>
+            <text>Some tengus can use their feathered arms and legs to glide. Tengus with this racial trait can make a DC 15 Fly check to fall safely from any height without taking falling damage, as if using feather fall. When falling safely, a tengu may make an additional DC 15 Fly check to glide, moving 5 feet laterally for every 20 feet he falls. This racial trait replaces gifted linguist.</text>
+        </trait>
+    </race>
+</compendium>

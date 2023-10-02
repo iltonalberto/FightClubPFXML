@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Dhampir Race -->
+    <race>
+        <name>Dhampir</name>
+        <ability>Dex 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Con -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Dhampirs begin play speaking Common. Those with high Intelligence scores can choose any language it wants (except secret languages, such as Druidic).</text>
+        </trait>
+        <trait>
+            <name>Undead Resistance</name>
+            <text>Dhampirs gain a +2 racial bonus on saving throws against disease and mind-affecting effects.</text>
+        </trait>
+        <trait>
+            <name>Resist Level Drain (Ex)</name>
+            <text>A dhampir takes no penalties from energy drain effects, though he can still be killed if he accrues more negative levels then he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.</text>
+        </trait>
+        <trait>
+            <name>Manipulative</name>
+            <text>Dhampir gain a +2 racial bonus on Bluff and Perception checks.</text>
+            <modifier category = "skill">Bluff +2</modifier>
+            <modifier category = "skill">Perception +2</modifier>
+        </trait>
+        <trait>
+            <name>Spell-Like Abilities (Su)</name>
+            <text>A dhampir can use detect undead three times per day as a spell-like ability. The caster level for this ability equals the dhampir’s class level.</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Dhampir see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Low-light vision</name>
+            <text>In addition to their ability to see perfectly in the dark up to 60 ft, dhampir have low-light vision, allowing them to see twice as far as humans in conditions of dim light.</text>
+        </trait>
+        <trait>
+            <name>Light Sensetivity</name>
+            <text>Dhampirs are dazzled in areas of bright sunlight or within the radius of a daylight spell.</text>
+        </trait>
+        <trait>
+            <name>Negative Energy Affinity</name>
+            <text>Though a living creature, a dhampir reacts to positive and negative energy as if it were undead—positive energy harms it, while negative energy heals it.</text>
+        </trait>
+        <trait>
+            <name>Sunlight Syndrome</name>
+            <text>Many denizens of the night are particularly vulnerable to the sun’s brutal rays—vampires in particular.</text>
+            <text>A character or creature vulnerable to sunlight syndrome—typically a member of a race with light sensitivity—must attempt a DC 20 Fortitude saving throw at the end of any day during which he spent more than 1 hour exposed to sunlight. Mundane gear such as a sun sensitivity outfit does not spare a character from needing to attempt this saving throw. If the saving throw succeeds, he faces no ill effects. If the saving throw fails, he must choose one of the following results: he gains the fatigued condition until he spends 12 hours resting in an area of dim light or darkness, or he gains 1 sunlight syndrome point. If the character gains a sunlight syndrome point, he takes no immediate ill effects, but he takes a –2 penalty on saving throws against sunlight syndrome for as long as he has 1 or more sunlight syndrome points.</text>
+            <text>A character can have multiple sunlight syndrome points, the penalties of which stack. One sunlight syndrome point can be removed by spending 12 hours resting in an area of dim light or darkness. Building up sunlight syndrome points represents the character’s resolve in facing the uncomfortable light, but also his growing discomfort— which can prove dangerous.</text>
+            <text>If a character gains a number of sunlight syndrome points equal to his Constitution modifier, he risks being overwhelmed. Anytime the character gains the dazzled condition as a result of bright light, he must attempt an immediate DC 30 Fortitude saving throw. The penalties imposed by sunlight syndrome points apply to this saving throw. If he fails, he is immediately fatigued. This condition lasts until the character spends 24 hours unconscious in an area of dim light or darkness with at least two-thirds of his body buried in cool earth, rocks, or sand. The character is helpless during this time. At the end of this period, all of the character’s sunlight syndrome points are removed.</text>
+            <text>Which characters or races are vulnerable to sunlight syndrome varies from game to game. At the GM’s discretion, sunlight syndrome might be a new, added vulnerability of dhampirs who travel the Frontier. Alternatively, it might be a drawback that grants a character an additional trait. GMs should work with players to decide whether or not sunlight syndrome features in their game.</text>
+        </trait>
+        <trait>
+            <name>Dayborn (Alternate Racial Traits)</name>
+            <text>A few fortunate dhampirs were born during the day under the blessings of priests, and their blood has weaker ties to their undead bloodline than others of their kind. Such dhampirs are unhindered by daylight and lose the light sensitivity racial trait. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Fangs (Alternate Racial Traits)</name>
+            <text>On occasion, a dhampir may inherit his father’s lengthy canines. Whenever the dhampir makes a grapple combat maneuver check to damage an opponent, he can choose to bite his opponent, dealing 1d3 points of damage as if using a natural bite attack. As a standard action, the dhampir can bite a creature that is bound, helpless, paralyzed, or similarly unable to defend itself. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Heir to Undying Nobility (Alternate Racial Traits)</name>
+            <text>Descended from undead nobility some dhampirs inherit a bit of their ancestors’ ability to control living beings. They can use command and charm person each once per day. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Vampire Hunter (Alternate Racial Traits)</name>
+            <text>Some dhampirs bear a deep hatred for their undead progenitors and their kin that can never be fully quenched. They gain a +1 bonus on attack rolls against vampires. This racial trait replaces manipulative.</text>
+        </trait>
+        <trait>
+            <name>Vampiric Empathy (Alternate Racial Traits)</name>
+            <text>Though dhampirs often relate poorly to humanoids, some share an affinity with baser creatures. These dhampirs gain the ability to communicate with bats, rats, and wolves as if under the effects of a speak with animals spell (caster level equal to 1/2 the dhampir’s Hit Dice). In addition, they gain a +2 racial bonus on Diplomacy checks when dealing with these animals. Whenever these dhampirs initiate an exchange, animals begin with a starting attitude of indifferent. This is a supernatural ability. This racial trait replaces manipulative.</text>
+        </trait>
+    </race>
+</compendium>

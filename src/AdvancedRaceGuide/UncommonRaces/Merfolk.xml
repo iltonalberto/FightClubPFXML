@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Merfolk Race -->
+    <race>
+        <name>Merfolk</name>
+        <ability>Dex 4</ability>
+        <ability>Con 2</ability>
+        <ability>Cha -2</ability>
+        <size>M</size>
+        <speed>5</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Merfolk begin play speaking Common and Aquan. Merfolk with high Intelligence scores can choose from the following: Aboleth, Aklo, Draconic, Elven, and Sylvan.</text>
+        </trait>
+        <trait>
+            <name>Armor</name>
+            <text>Merfolk have a +2 natural armor bonus.</text>
+            <modifier category = "bonus">Natural Armor +2</modifier>
+        </trait>
+        <trait>
+            <name>Legless</name>
+            <text>Merfolk have no legs, and therefore cannot be tripped.</text>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>Merfolk have low-light vision allowing them to see twice as far as humans in conditions of dim light.</text>
+        </trait>
+        <trait>
+            <name>Amphibious</name>
+            <text>Merfolk are amphibious, but prefer not to spend long periods out of the water.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Darkvision (Alternate Racial Traits)</name>
+            <text>Some Merfolk favor the lightless depths over shallower waters. Merfolk with this racial trait gain darkvision with a range of 60 feet and light sensitivity. This racial trait replaces low-light vision.</text>
+        </trait>
+        <trait>
+            <name>Seasinger (Alternate Racial Traits)</name>
+            <text>The beautiful voices of the merfolk are legendary. A seasinger gains a +2 racial bonus on Perform (sing) checks and a +1 racial bonus to the save DC of language-dependent spells. This racial trait replaces low-light vision.</text>
+        </trait>
+        <trait>
+            <name>Secret Magic (Alternate Racial Traits)</name>
+            <text>Merfolk sometimes manifest magical powers they are unwilling to explain to non-merfolk, leading scholars to speculate that the magic originates from the merfolk’s rumored eldritch patrons. Such merfolk have only a 40-foot swim speed, but they add +1 to the DC of any enchantment spells they cast, and if they have a Charisma score of 13 or higher, they gain the ability to cast the following spell-like abilities: At will—speak with animals (aquatic animals only); 1/day—fins to feet (self only), hydraulic push. This racial trait replaces the armor racial trait and alters the merfolk’s movement speed.</text>
+        </trait>
+        <trait>
+            <name>Strongtail (Alternate Racial Traits)</name>
+            <text>A few merfolk have broad, strong tails that are more suited for land travel than the typical merfolk tail. Merfolk with this racial trait have a land speed of 15 feet and a swim speed of 30 feet.</text>
+        </trait>
+        <trait>
+            <name>Unexpected Ally (Alternate Racial Traits)</name>
+            <text>Merfolk with this racial trait gain a +2 bonus on Diplomacy checks to influence a creature’s attitude. In addition, merfolk with this racial trait gain a +1 racial bonus on checks to perform the aid another action. This replaces low-light vision.</text>
+        </trait>
+    </race>
+</compendium>

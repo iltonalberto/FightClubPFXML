@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Gillmen Race -->
+    <race>
+        <name>Gillmen</name>
+        <ability>Con 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Wis -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Gillmen begin play speaking Common and Aboleth. Gillmen with high Intelligence scores can choose from the following: Aklo, Aquan, Draconic, and Elven.</text>
+        </trait>
+        <trait>
+            <name>Enchantment Resistance</name>
+            <text>Gillmen gain a +2 racial bonus to saving throws against non-aboleth enchantment spells and effects, but take a –2 penalty on such saving throws against aboleth sources.</text>
+        </trait>
+        <trait>
+            <name>Water Dependent</name>
+            <text>A gillman’s body requires constant submersion in fresh or salt water. Gillmen who spend more than one day without fully submerging themselves in water risk internal organ failure, painful cracking of the skin, and death within 4d6 hours.</text>
+        </trait>
+        <trait>
+            <name>Amphibious</name>
+            <text>Gillmen can breathe both water and air.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Deep Gillman (Alternate Racial Traits)</name>
+            <text>Some gillmen live in the deeper ocean and almost never visit the land above the sea. Such gillmen gain darkvision to a range of 60 feet and resist cold 5, in order to survive the lightless depths. This racial trait replaces amphibious and enchantment resistance.</text>
+        </trait>
+        <trait>
+            <name>Riverfolk (Alternate Racial Traits)</name>
+            <text>Some gillmen groups live in colonies along vast riverways, and have adapted to living on land for much longer periods. Gillmen with this trait have a thin coating of natural oil that keeps their skin from cracking even without water. However, this natural oil also makes such gillmen particularly susceptible to flames, and they gain vulnerability to fire. This racial trait replaces water dependent.</text>
+        </trait>
+        <trait>
+            <name>Slimehunter (Alternate Racial Traits)</name>
+            <text>Gillmen with this trait are from lineages that have fought against aboleths since the aberrations rescued their human ancestors. They receive a +2 racial bonus on saving throws against aboleth spells, spell-like abilities, and supernatural abilities. This racial trait replaces enchantment resistance.</text>
+        </trait>
+        <trait>
+            <name>Submerged (Alternate Racial Traits)</name>
+            <text>Gillmen who live in deep water are accustomed to the gloom of the depths. Though these gillmen can venture onto land, they are uncomfortable doing so and must return to the ocean sooner than other gillmen. Gillmen with this racial trait gain low-light vision but must submerge themselves in water every 12 hours or die within 2d4 hours. This modifies their water dependent racial trait.</text>
+        </trait>
+        <trait>
+            <name>Taskmaster (Alternate Racial Traits)</name>
+            <text>The aboleth fleshcrafters created some gillmen as overseers among their kin, allowing them to exude pheromones into the air or water. Generations later, the descendants of these taskmaster gillmen retain the ability to influence others. Gillmen with this trait gain a +2 racial bonus on Diplomacy checks. This racial trait replaces enchantment resistance.</text>
+            <modifier category = "skill">Diplomacy +4</modifier>
+        </trait>
+        <trait>
+            <name>Throwback (Alternate Racial Traits)</name>
+            <text>Some gillmen are throwbacks to their land-dwelling human ancestors. Gillmen with this racial trait do not have the amphibious trait, have the human subtype instead of the aquatic subtype, have no swim speed or bonuses to the Swim skill, cannot breathe water, and do not have the water dependent racial trait.</text>
+        </trait>
+        <trait>
+            <name>Truthseer (Alternate Racial Traits)</name>
+            <text>Gillmen with this racial trait gain a +2 racial bonus on saving throws against non-aboleth illusion spells or effects, but they take a –2 penalty on such saving throws against aboleth sources. This racial trait replaces enchantment resistance.</text>
+        </trait>
+        <trait>
+            <name>Venomkissed (Alternate Racial Traits)</name>
+            <text>Some gillmen display an innate resistance to the toxic creatures of the deep. In gillman communities, venomkissed gillmen take on the dangerous task of domesticating jellyfish, octopuses, sea snakes, and other venomous creatures. Solitary venomkissed gillmen make their homes near beds of poisonous coral and anemones, using the creatures as natural defense. Gillmen with this racial trait gain a +2 racial saving throw bonus against poison. This racial trait replaces enchantment resistance.</text>
+        </trait>
+    </race>
+</compendium>

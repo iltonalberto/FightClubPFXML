@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Nagaji Race -->
+    <race>
+        <name>Nagaji</name>
+        <ability>Str 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Int -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Nagaji begin play speaking Common and Draconic. Nagaji with high Intelligence scores can choose from the following: any human tongue, Abyssal, Aklo, Celestial, Draconic, Giant, Infernal, and Sylvan.</text>
+        </trait>
+        <trait>
+            <name>Armored Scales</name>
+            <text>Nagaji have a +1 natural armor bonus from their scaly flesh.</text>
+            <modifier category = "bonus">Natural Armor +1</modifier>
+        </trait>
+        <trait>
+            <name>Resistant (Ex)</name>
+            <text>Nagaji receive a +2 racial saving throw bonus against mind-affecting effects and poison.</text>
+        </trait>1
+        <trait>
+            <name>Serpent’s Sense (Ex)</name>
+            <text>Nagaji receive a +2 racial bonus on Handle Animal checks against reptiles, and a +2 racial bonus on Perception checks.</text>
+            <modifier category = "skill">Perception +2</modifier>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>Nagaji have low-light vision allowing them to see twice as far as humans in conditions of dim light.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Hypnotic Gaze (Sp) (Alternate Racial Traits)</name>
+            <text>The nagaji’s gaze is so intense it stops others in their tracks. Once per day, it can attempt to hypnotize a single target, as per the spell hypnotism (caster level equal to the nagaji’s Hit Dice). The DC of this effect is equal to 11 + the nagaji’s Charisma modifier. The effects of the hypnotic gaze only last a single round. This racial trait replaces serpent’s sense.</text>
+        </trait>
+        <trait>
+            <name>Serpent Affinity (Alternate Racial Traits)</name>
+            <text>Nagaji clerics with this racial trait and the Scalykind domain use their domain powers and spells at +1 caster level. This increase is a racial bonus. This racial trait replaces resistant.</text>
+        </trait>
+    </race>
+</compendium>

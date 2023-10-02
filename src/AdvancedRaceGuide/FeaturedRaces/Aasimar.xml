@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Aasimar Race -->
+    <race>
+        <name>Aasimar</name>
+        <ability>Wis 2</ability>
+        <ability>Cha 2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Aasimars begin play speaking Common and Celestial. Aasimars with high Intelligence scores can choose from the following languages: Draconic, Dwarven, Elven, Gnome, Halfling, and Sylvan.</text>
+        </trait>
+        <trait>
+            <name>Lifebound (Ex)</name>
+            <text>Samsarans gain a +2 racial bonus on all saving throws made to resist death effects, saving throws against negative energy effects, Fortitude saves made to remove negative levels, and Constitution checks made to stabilize if reduced to negative hit points.</text>
+            <modifier category = "bonus">Saving Throws +2</modifier>
+        </trait>
+        <trait>
+            <name>Celestial Resistance</name>
+            <text>Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5.</text>
+        </trait>
+        <trait>
+            <name>Skilled</name>
+            <text>Aasimar have a +2 racial bonus on Diplomacy and Perception checks.</text>
+            <modifier category = "skill">Diplomacy +2</modifier>
+            <modifier category = "skill">Perception +2</modifier>
+        </trait>
+        <trait>
+            <name>Spell-Like Ability (Sp)</name>
+            <text>Aasimars can use daylight once per day as a spell-like ability (caster level equal to the aasimar’s class level).</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Aasimar have darkvision 60 ft. (they can see perfectly in the dark up to 60 feet.)</text>
+        </trait>
+        <trait>
+            <name>Celestial Crusader (Alternate Racial Traits)</name>
+            <text>Some aasimars follow their destiny to war against the powers of ultimate evil. These individuals gain a +1 insight bonus on attack rolls and to AC against evil outsiders and a +2 racial bonus on Knowledge (planes) and Spellcraft checks to identify evil outsiders or items or effects created by evil outsiders; they may use these skills untrained for this purpose. This racial trait replaces celestial resistance and skilled.</text>
+        </trait>
+        <trait>
+            <name>Crusading Magic (Alternate Racial Traits)</name>
+            <text>Many aasimars feel obligated to train to defend the world against fiends. These aasimars gain a +2 racial bonus on caster level checks to overcome spell resistance and on Knowledge (planes) checks. This racial trait replaces the skilled and spell-like ability racial traits.</text>
+        </trait>
+        <trait>
+            <name>Deathless Spirit (Alternate Racial Traits)</name>
+            <text>Particularly strong-willed aasimars possess celestial spirits capable of resisting the powers of death. They gain resistance 5 against negative energy damage. They do not lose hit points when they gain a negative level, and they gain a +2 racial bonus on saving throws against death effects, energy drain, negative energy, and spells or spell-like abilities of the necromancy school. This racial trait replaces celestial resistance.</text>
+        </trait>
+        <trait>
+            <name>Exalted Resistance (Alternate Racial Traits)</name>
+            <text>An aasimar with this racial trait gains spell resistance (SR) equal to 5 + her level against spells and spell-like abilities with the evil descriptor, as well as any spells and spell-like abilities cast by evil outsiders. This racial trait replaces celestial resistance.</text>
+        </trait>
+        <trait>
+            <name>Halo (Alternate Racial Traits)</name>
+            <text>Some aasimars possess the ability to manifest halos. An aasimar with this racial trait can create light centered on her head at will as a spell-like ability. When using her halo, she gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled. This racial trait replaces the darkvision standard racial trait.</text>
+        </trait>
+        <trait>
+            <name>Heavenborn (Alternate Racial Traits)</name>
+            <text>Born in the celestial realms, aasimars with this racial trait gain a +2 bonus on Knowledge (planes) checks and they cast spells with the good or light descriptor at +1 caster level. This racial trait replaces the skilled and spell-like ability racial traits.</text>
+        </trait>
+        <trait>
+            <name>Immortal Spark (Alternate Racial Traits)</name>
+            <text>Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on Knowledge (history) checks and saving throws against death effects and can use lesser age resistance once per day as a spell-like ability. This racial trait replaces the skilled and spell-like ability racial traits.</text>
+        </trait>
+        <trait>
+            <name>Incorruptible (Alternate Racial Traits)</name>
+            <text>Occasionally, aasimars arise with the ability to further ward away evil. Aasimars with this racial trait can cast corruption resistance against evil once per day as a spell-like ability. If an aasimar uses this ability on herself, the duration increases to 1 hour per level. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Lost Promise (Alternate Racial Traits)</name>
+            <text>While many view aasimars’ beauty and celestial powers as a gift, in some communities an aasimar might be persecuted for being different and fall into darkness. The forces of evil delight in such a perversion of their celestial counterparts’ gifts. As long as the aasimar retains an evil alignment, she gains the maw or claw tiefling alternate racial trait. This racial trait replaces the spell-like ability racial trait.</text>
+        </trait>
+        <trait>
+            <name>Scion of Humanity (Alternate Racial Traits)</name>
+            <text>Some aasimars’ heavenly ancestry is extremely distant. An aasimar with this racial trait counts as an outsider (native) and a humanoid (human) for any effect related to race, including feat prerequisites and spells that affect humanoids. She can pass for human without using the Disguise skill. This racial trait replaces the Celestial language and alters the native subtype.</text>
+        </trait>
+        <trait>
+            <name>Truespeaker (Alternate Racial Traits)</name>
+            <text>There are some aasimars whose language transcends all boundaries. They gain a +2 bonus on Linguistics and Sense Motive checks, and they learn two languages each time they gain a rank in Linguistics. This racial trait replaces skilled.</text>
+            <modifier category = "skill">Linguistics +2</modifier>
+            <modifier category = "skill">Sense Motive +2</modifier>
+        </trait>
+    </race>
+</compendium>

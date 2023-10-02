@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Kitsune Race -->
+    <race>
+        <name>Kitsune</name>
+        <ability>Dex 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Str -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Kitsune begin play speaking Common and Sylvan. Kitsune with high Intelligence scores can choose from the following: any human language, Aklo, Celestial, Elven, Gnome, and Tengu.</text>
+        </trait>
+        <trait>
+            <name>Agile (Ex)</name>
+            <text>Kitsune receive a +2 racial bonus on Acrobatics checks.</text>
+            <modifier category = "skill">Acrobatics +2</modifier>
+        </trait>
+        <trait>
+            <name>Change Shape (Su)</name>
+            <text>A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on Disguise checks made to appear human. Changing shape is a standard action. This ability otherwise functions as alter self, except that the kitsune does not adjust her ability scores and can remain in this form indefinitely.</text>
+        </trait>
+        <trait>
+            <name>Kitsune Magic (Ex/Sp)</name>
+            <text>Kitsune add +1 to the DC of any saving throws against enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—dancing lights (caster level equals the kitsune’s level).</text>
+        </trait>
+        <trait>
+            <name>Natural Weapons (Ex)</name>
+            <text>In her natural form, a kitsune has a bite attack that deals 1d4 points of damage.</text>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>Kitsune can see twice as far as humans in conditions of dim light.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Duplicitous (Alternate Racial Traits)</name>
+            <text>Many kitsune prefer to avoid the attention they often attract from human neighbors and attempt to convince all around them that they are human. They gain a +2 racial bonus on Bluff and Disguise checks. This racial trait replaces kitsune magic.</text>
+            <modifier category = "skill">Bluff +2</modifier>
+            <modifier category = "skill">Disguise +2</modifier>
+        </trait>
+        <trait>
+            <name>Fast Shifter (Su) (Alternate Racial Traits)</name>
+            <text>You were born with an innate talent for switching between your natural forms. Using your racial change shape ability is a move action instead of a standard action. This racial trait replaces kitsune magic.</text>
+        </trait>
+        <trait>
+            <name>Gregarious (Ex) (Alternate Racial Traits)</name>
+            <text>Even among your own kind, your gift for making friends stands out. Whenever you successfully use Diplomacy to win over an individual, that creature takes a –2 penalty to resist any of your Charisma-based skill checks for the next 24 hours. This racial trait replaces agile.</text>
+        </trait>
+        <trait>
+            <name>Keen Kitsune (Alternate Racial Traits)</name>
+            <text>Although amiable, kitsune are notoriously clever and cunning, often far more than they seem. Such characters gain a +2 bonus to Dexterity and Intelligence instead of Dexterity and Charisma. This racial trait alters the kitsune’s ability score modifiers.</text>
+        </trait>
+        <trait>
+            <name>Multilingual (Alternate Racial Traits)</name>
+            <text>Although most kitsune speak only Common, some quickly learn other human languages in order to give themselves an edge when dealing with humanity. They speak Common, Sylvan, and the racial language of their human form’s ethnicity, and they can learn any language they want (except Druidic and other secret languages) if they have high Intelligence scores. This racial trait replaces agile as well as a kitsune’s normal languages.</text>
+        </trait>
+        <trait>
+            <name>Skilled (Alternate Racial Traits)</name>
+            <text>Some kitsune focus on diversifying their skill set in order to better blend in with their human peers. They gain an additional skill rank at 1st level and one additional skill rank whenever they gain a level. This racial trait replaces agile and kitsune magic.</text>
+            <modifier category = "bonus">Skill Points Per Level +1</modifier>
+        </trait>
+        <trait>
+            <name>Superior Shapeshifter (Alternate Racial Traits)</name>
+            <text>Some talented kitsune take more naturally to shapeshifting than magic, and develop that gift. They gain Fox Shape as a bonus feat at 1st level, ignoring its prerequisites. This racial trait replaces kitsune magic</text>
+        </trait>
+    </race>
+</compendium>

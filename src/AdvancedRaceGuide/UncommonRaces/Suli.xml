@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Suli Race -->
+    <race>
+        <name>Suli</name>
+        <ability>Str 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Int -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Sulis begin play speaking Common and one elemental language (Aquan, Auran, Ignan, or Terran). Sulis with high Intelligence scores can choose from the following: Aquan, Auran, Draconic, Ignan, and Terran.</text>
+        </trait>
+        <trait>
+            <name>Energy Resistance 5</name>
+            <text>Sulis have resistance to acid 5, cold 5, electricity 5, and fire 5.</text>
+        </trait>
+        <trait>
+            <name>Negotiator</name>
+            <text>Sulis are keen negotiators, and gain a +2 racial bonus on Diplomacy and Sense Motive checks.</text>
+            <modifier category = "skill">Diplomacy +2</modifier>
+            <modifier category = "skill">Sense Motive +2</modifier>
+        </trait>
+        <trait>
+            <name>Elemental Assault (Su)</name>
+            <text>Once per day as a swift action, a suli can shroud her arms in acid, cold, electricity, or fire. This lasts for one round per level, and can be dismissed as a free action. Unarmed strikes with her arms or hands (or attacks with weapons held in those hands) deal +1d6 points of damage of the appropriate energy type.</text>
+        </trait>
+        <trait>
+            <name>Low-Light Vision</name>
+            <text>Sulis can see twice as far as humans in dim light.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Energy Strike (Su) (Alternate Racial Traits)</name>
+            <text>A suli with this racial trait has a stronger connection to one energy type than to the other three used by sulis. Choose one energy type: acid, cold, electricity, or fire. The suli’s elemental assault ability can only deal energy damage of this type. The suli has resistance 5 to this energy type and no racial resistance to the other three types. While her elemental assault is active, the suli gains an additional ability based on the chosen energy type. This racial trait otherwise works like and replaces elemental assault. </text>
+            <text>Earthfoot (acid): Whenever the suli moves through difficult terrain related to earth and stone (rubble, mud, sand, and so on), she may move through 5 feet of that difficult terrain each round as if it were normal terrain. This allows the suli to take a 5-foot step into that difficult terrain. Other kinds of difficult terrain (ice, caltrops, foliage, and so on) affect the suli normally.</text>
+            <text>Firehand (fire): Instead of adding damage to a melee attack, the suli may hurl a piece of her arm-flames as if it were a thrown weapon. The suli makes a ranged touch attack; if the attack hits, the target takes 1d6 points of fire damage. The flames have a range increment of 10 feet.</text>
+            <text>Icewalk (cold): The suli can walk on water-based liquids as if using water walk, except instead of hovering above the surface, she creates a temporary layer of ice that supports her and immediately melts once she moves away from it. This ice is not slippery to the suli and does not affect her balance or speed, though other ice affects her normally. Other creatures cannot travel on this ice, but the suli may carry a creature while moving.</text>
+            <text>Shockshield (electricity): Once per round as an immediate action, the suli can shock a creature that touches or attacks her with a natural attack, unarmed strike, or metal melee weapon, dealing 1d6 points of electricity damage to the creature.</text>
+        </trait>
+        <trait>
+            <name>Mostly Human (Alternate Racial Traits)</name>
+            <text>A few sulis have appearances much closer to those of their human ancestors; in fact, they may not even realize their true race. Such geniekin appear to be human, save perhaps minor features like unusual eye color, and they count as humanoid (human) as well as outsider (native) for all purposes (such as humanoid-affecting spells such as charm person or enlarge person). These geniekin do not automatically gain their associated elemental language (but may select it as a bonus language if their Intelligence is high enough). This ability alters the geniekin’s type, subtype, and languages.</text>
+        </trait>
+        <trait>
+            <name>Trusted Mediator (Alternate Racial Traits)</name>
+            <text>Sulis are renowned as impartial mediators, and they learn to shroud their minds to prevent magic from tampering with their judgments. They gain a +2 racial bonus on saving throws against mind-affecting effects. This racial trait replaces energy resistance and low-light vision.</text>
+        </trait>
+    </race>
+</compendium>

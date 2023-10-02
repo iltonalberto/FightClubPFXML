@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Duergar Race -->
+    <race>
+        <name>Duergar</name>
+        <ability>Con 2</ability>
+        <ability>Wis 2</ability>
+        <ability>Cha -4</ability>
+        <size>M</size>
+        <speed>20</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Duergar begin play speaking Common, Dwarven, and Undercommon. Duergar with high Intelligence scores can choose from the following: Aklo, Draconic, Giant, Goblin, Orc, and Terran.</text>
+        </trait>
+        <trait>
+            <name>Duergar Immunities</name>
+            <text>Duergar are immune to paralysis, phantasms, and poison. They gain a +2 racial bonus on saves against spells and spell-like abilities.</text>
+        </trait>
+        <trait>
+            <name>Stability</name>
+            <text>Duergar receive a +4 racial bonus to their CMD against bull rush or trip attempts while on solid ground.</text>
+        </trait>
+        <trait>
+            <name>Enlarge Person Spell-Like Ability (Sp)</name>
+            <text>A duergar can use enlarge person once per day, using its character level as its caster level and affecting itself only.</text>
+        </trait>
+        <trait>
+            <name>Invisibility Spell-Like Ability (Sp)</name>
+            <text>A duergar can use invisibility once per day, using its character level as its caster level and affecting itself only.</text>
+        </trait>
+        <trait>
+            <name>Superior Darkvision</name>
+            <text>Duergar have superior darkvision, allowing them to see perfectly in the dark up to 120 feet.</text>
+        </trait>
+        <trait>
+            <name>Light Sensitivity</name>
+            <text>Duergar are dazzled in areas of bright light.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Blood Enmity (Alternate Racial Traits)</name>
+            <text>Duergar have long warred against their dwarven cousins and the hated drow. Duergar with this racial trait receive a +1 racial bonus on attack rolls against humanoid creatures of the dwarf or elf subtypes. This racial trait replaces the invisibility spell-like ability.</text>
+        </trait>
+        <trait>
+            <name>Daysighted (Alternate Racial Traits)</name>
+            <text>The cruel light of the sun harms some duergar less than others. Such duergar lack the light sensitivity racial trait, but have darkvision of only 60 feet.</text>
+        </trait>
+        <trait>
+            <name>Deep Magic (Alternate Racial Traits)</name>
+            <text>Duergar spellcasters labor long to overcome the inborn spell resistance (SR) held by so many of their underground foes. Duergar with this racial trait receive a +2 racial bonus on caster level checks made to overcome spell resistance and a +2 racial bonus on dispel checks. This racial trait replaces the enlarge person and invisibility spell-like abilities.</text>
+        </trait>
+        <trait>
+            <name>Dwarf Traits (Alternate Racial Traits)</name>
+            <text>Duergar can select any dwarf racial trait that replaces stability. They can select dwarf racial traits that replace the hardy dwarf racial trait by giving up duergar immunities instead.</text>
+        </trait>
+        <trait>
+            <name>Magical Taskmaster (Alternate Racial Traits)</name>
+            <text>Some duergar demonstrate magic of a more insidious kind than the rest of their kin. They can use charm person once per day as a spell-like ability. The save DC is equal to 10 + 1/2 duergar’s Hit Dice + duergar’s Wisdom modifier. This racial trait replaces the invisibility spell-like ability racial trait.</text>
+        </trait>
+    </race>
+</compendium>

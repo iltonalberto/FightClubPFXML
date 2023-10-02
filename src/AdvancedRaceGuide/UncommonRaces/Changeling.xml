@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Changeling Race -->
+    <race>
+        <name>Changeling</name>
+        <ability>Wis 2</ability>
+        <ability>Cha 2</ability>
+        <ability>Con -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Changelings begin play speaking Common and the primary language of their host society. Changelings with high Intelligence scores can choose from the following: Aklo, Draconic, Dwarven, Elven, Giant, Gnoll, Goblin, and Orc.</text>
+        </trait>
+        <trait>
+            <name>Natural Armor</name>
+            <text>Changelings have a +1 natural armor bonus.</text>
+            <modifier category = "bonus">Natural Armor +1</modifier>
+        </trait>
+        <trait>
+            <name>Claws</name>
+            <text>Changelings’ fingernails are hard and sharp, granting them two claw attacks (1d4 points of damage each).</text>
+        </trait>
+        <trait>
+            <name>Darkvision</name>
+            <text>Changelings see perfectly in the dark up to 60 feet.</text>
+        </trait>
+        <!-- Other Racial Traits -->
+        <trait>
+            <name>Hulking Changeling (Annis Hag)</name>
+            <text>The changeling gains a +1 racial bonus on melee damage.</text>
+        </trait>
+        <trait>
+            <name>Pyrophile (Ash Hag)</name>
+            <text>The changeling gains a +1 racial bonus on damage rolls when using spells with the fire descriptor. This bonus increases by 1 for every 4 levels the changeling has beyond 1st.</text>
+        </trait>
+        <trait>
+            <name>Green Widow (Green Hag)</name>
+            <text>The changeling gains a +2 racial bonus on Bluff checks against creatures that are sexually attracted to her.</text>
+        </trait>
+        <trait>
+            <name>Sea Lungs (Sea Hag)</name>
+            <text>The changeling may hold her breath for a number of rounds equal to three times her Constitution before she risks drowning.</text>
+        </trait>
+        <trait>
+            <name>Gaze Blindness (Mute Hag)</name>
+            <text>The changeling gains a +2 racial bonus on saving throws against gaze attacks.</text>
+        </trait>
+        <trait>
+            <name>Heartstone Heritor (Night Hag)</name>
+            <text>The changeling gains a +2 racial bonus on saving throws against disease.</text>
+        </trait>
+        <trait>
+            <name>Ice Climber (Winter Hag)</name>
+            <text>The changeling gains a +5 racial bonus on Climb checks on icy or slippery surfaces.</text>
+        </trait>
+        <trait>
+            <name>Inscrutable (Blood Hag)</name>
+            <text>The Sense Motive check DC to gain a hunch about the changeling increases by 5.</text>
+        </trait>
+        <trait>
+            <name>Wind Breaker (Storm Hag)</name>
+            <text>The changeling is treated as two size categories larger for the purpose of resolving wind effects.</text>
+        </trait>
+        <!-- Alternate Racial Traits -->
+        <trait>
+            <name>Hag Magic (Alternate Racial Traits)</name>
+            <text>Some changelings develop a gift for spellcasting instead of their mothers’ overtly fearsome traits. A changeling with this trait displays one or more stark white streaks in her hair as a child. The DCs of any saving throws against enchantment spells she casts increase by 1, and if her Charisma score is 11 or higher, she also gains the following spell-like abilities, usable once per day each: dancing lights, detect magic, disguise self, and pass without trace. The caster level of these spell-like abilities is equal to the changeling’s character level. The DC for these spell-like abilities is equal to 10 + the spell’s level + the changeling’s Charisma modifier. This racial trait replaces the claws and natural armor racial abilities.</text>
+        </trait>
+        <trait>
+            <name>Hag Magic (Alternate Racial Traits)</name>
+            <text>Some changelings have an innate talent for magic. They can choose one 1st- or 0-level spell from the witch spell list that does not have a material component costing more than 1 gp. They can use the chosen spell as a spell-like ability once per day if it is a 1st-level spell or three times per day if it is a 0-level spell (caster level equal to the changeling’s character level). This racial trait replaces natural armor. </text>
+        </trait>
+        <trait>
+            <name>Object of Desire (Alternate Racial Traits)</name>
+            <text>When the changeling has concealment or total concealment, the miss chance of attacks against her increases by 5%. This racial trait replaces hulking changeling.</text>
+        </trait>
+        <trait>
+            <name>Ocean’s Daughter (Alternate Racial Traits)</name>
+            <text>The changeling gains a +1 trait bonus on Swim checks. She automatically succeeds at Swim checks made to avoid nonlethal damage from swimming. This racial trait replaces sea lungs.</text>
+            <modifier category = "skill">Swim +2</modifier>
+        </trait>
+        <trait>
+            <name>Witchborn (Alternate Racial Traits)</name>
+            <text>Most changelings are talented witches. They gain a +2 bonus to Intelligence and Charisma instead of a +2 bonus to Wisdom and Charisma. This racial trait alters the changeling’s racial ability score modifiers.</text>
+        </trait>
+    </race>
+</compendium>
