@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
-    <!-- Vishkanya Race -->
+    <!-- Wayang Race -->
     <race>
-        <name>Vishkanya</name>
+        <name>Wayang</name>
         <ability>Dex 2</ability>
         <ability>Int 2</ability>
         <ability>Wis -2</ability>
