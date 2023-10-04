@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Dragonborn Race -->
+    <race>
+        <name>Dragonborn</name>
+        <ability>Str 2</ability>
+        <ability>Con 2</ability>
+        <ability>Cha -2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Dragonborn begin play speaking Common and Draconic. Dragonborn with high Intelligence scores can choose from the following languages: Primordial, Giant, Goblin, and Orc.</text>
+        </trait>
+        <trait>
+            <name>Versatile Bonus</name>
+            <text>Dragonborns can change the bonus +2 strenght, to +2 Charisma, because dragonborns are majestic creatures but he gains a -2 to Dexterity.</text>
+        </trait>
+        <trait>
+            <name>Bite</name>
+            <text>Dragonborn possess a natural bite attack dealing 1d4 points of damage.</text>
+        </trait>
+        <trait>
+            <name>Breath Weapon (Su)</name>
+            <text>Once per day, a dragonborn can breathe a 15-ft. long cone of energy dealing 1d6 points of acid, cold, electricity or fire damage. The damage increase by 1d6 every two character levels beyond 1st. Affected creatures suffer half damage on a successful Reflex saving throw (DC 10 plus 1/2 character level plus Constitution modifier). Energy type of the dragonborn’s breath is determined by color of its scales.</text>
+        </trait>
+        <trait>
+            <name>Draconic Resistances</name>
+            <text>Dragonborn are immune to sleep effects and gain +2 racial bonus to saving throws against paralysis.</text>
+        </trait>
+        <trait>
+            <name>Energy Resistance:</name>
+            <text>Dragonborn possess 5 points of energy resistance to the same energy type as their breath.</text>
+        </trait>
+        <trait>
+            <name>Natural Armor</name>
+            <text>Dragonborn thick scales give them +2 natural armor bonus.</text>
+            <modifier category = "bonus">Natural Armor +1</modifier>
+        </trait>
+        <trait>
+            <name>Draconic Mein</name>
+            <text>Dragonborn receive a +2 racial bonus to Intimidate skill checks.</text>
+            <modifier category = "skill">Intimidate +2</modifier>
+        </trait>
+        <trait>
+            <name>Fearless</name>
+            <text>Dragonborn gain a +2 racial bonus on all saving throws against fear effects.</text>
+        </trait>
+    </race>
+</compendium>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><compendium version="PF">
+    <!-- Dvati Race -->
+    <race>
+        <name>Dvati</name>
+        <ability>Str -2</ability>
+        <ability>Dex 2</ability>
+        <ability>Int 2</ability>
+        <size>M</size>
+        <speed>30</speed>
+        <trait>
+            <name>Languages</name>
+            <text>Dvati begin play speaking Common. Dvati with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).</text>
+            <text>Dvati requires two creatures speaking simultaneously. One twin provides a description of actions, while the other supplies words and descriptions of things. The two weave together to communicate in a uniquely Dvati manner. Other creatures can speak this tongue, but two Dvati-speaking creatures must work together. Otherwise, communication via this language is impossible. In most cases, Dvati use Common to speak with other races.</text>
+        </trait>
+        <trait>
+            <name>Two Bodies, Single Entity</name>
+            <text>Despite having two bodies, Dvati twins are treated as a single character for purposes of XP, selection of class levels, feats, spells, class abilities, and other special abilities. Create the character as if creating a standard character.</text>
+        </trait>
+        <trait>
+            <name>Act As One (Ex)</name>
+            <text>Dvati twins can consider the other twin as an ally for the purpose of feats, flanking, spells, class abilities, special abilities, and any other effects that rely on an ally should it be beneficial to the Dvati.</text>
+        </trait>
+        <trait>
+            <name>Dvati Casting (Ex)</name>
+            <text>Dvati twins share the same mind and power used for any type of casting, manifesting, or spell-like abilities. As such, they both must concentrate at the same time on any spell, power, or SLA they cast and spend the same actions required to cast or manifest, provoking attacks of opportunity as normal. If spell failure is incurred, the twin with the worst penalty is applied to the casting attempt. Should one twin attempt to take an action that the other is currently using to cast a spell, SLA, or manifest a power; the attempt automatically fails and the resources expended. (ex.: one casting a spell that takes a standard action or longer while the other tries to swing a sword at a nearby hobgoblin would ruin the spell.) Only one spell is cast but it may originate from either twin. Alternatively, one twin may cast the spell alone while the other takes no actions (including free actions). In this case, only the casting twin's Spell Failure chance is taken into account. However, the spell MUST originate from the casting twin in this case and they both still provoke attacks of opportunity.</text>
+            <text>Martial Maneuvers: If you are using martial maneuvers in your game, they cannot execute martial maneuvers with an initiation action of Full-Round more than once per turn. However, this does not stop them from using any other number or combination of maneuvers.</text>
+        </trait>
+        <trait>
+            <name>Shared Power (Ex)</name>
+            <text>Dvati share any pool of spells, power points, per use abilities, and any other such abilities that have a limit to how often it can be used. If one twin uses an ability, it is expended for both of them as if they were a single character. Whenever they would regain any of their expended resources, they both must spend the same actions at the same time in order to do so.</text>
+        </trait>
+        <trait>
+            <name>Linked Life Force (Ex)</name>
+            <text>The Dvati twins divide their hit points between them. Each twin in the pair gains half the hit points from his Hit Die roll, although both gain the full benefits of his Constitution modifier. Do not roll Hit Dice separately for each Dvati twin. For example, a 1st-level Dvati fighter with a 13 Constitution gains 6 hit points for each twin ([10hp/2]+1=6). Any increase or decrease in maximum hit points (except temporary hit points) increases or decreases each twin's max hp (including the favored class bonus hp increase). For example, the same 1st-level Dvati fighter with a 13 Constitution takes Toughness and gains 9 hit points for each twin ([10hp/2]+1 + 3 = 9).</text>
+            <text>Keep track of maximum hp gained via HD dice rolls and round down from this value instead of each individual HD increase. Then apply other gains to hp as normal.</text>
+            <text> Additionally, if one Dvati twin dies, the other slowly sickens and perishes. Each day that passes after a Dvati twin dies, the surviving twin takes 1d4 points of Constitution and Wisdom damage and takes a cumulative -1 penalty on attack rolls, skill checks, and saving throws. The ability damage and penalties remain (and cannot be healed or removed) until the living twin dies or his soulmate returns to life (at which time they immediately disappear). Level loss caused by returning to life via a raise dead or similar spell affects both Dvati twins as normal. Most Dvati prefer to commit ritual suicide if one twin dies without hope of return, as the pain of losing the close bond drives a Dvati to the brink of madness.</text>
+        </trait>
+        <trait>
+            <name>Innate Mindlink (Su)</name>
+            <text>The Dvati twins may communicate with each other as if under a constant Mindlink effect with the following changes: This power works across planes and, as a full-round action, a Dvati twin can determine his twin's current hit points and mental state. If one twin is on the same plane as the other, the twin learns the relative direction and distance to his partner.</text>
+            <text>Twins are in near constant communication with each other and feel ill at ease if they are unable to confirm the well-being of their other half. Should one of them be slain, the other immediately knows of their demise and begins taking penalties as detailed under Linked Life Force.</text>
+            <text>This ability counts as the Bonded Mind feat for the purposes of taking feats with Bonded Mind as a prerequisite.</text>
+        </trait>
+        <trait>
+            <name>Spell Conductor</name>
+            <text>Personal spells (those with a target of "you") affect both twins simultaneously as long as they are on the same plane. Otherwise, they affect only the caster. Other spells function as normal.</text>
+            <text> A Dvati twin can choose to shift a spell that affects him to his twin so long as both of them are on the same plane. The shifted spell must have a range of touch and it must also be harmless. Using this ability requires a move action from the twin who is shifting the spell to focus and channel the spell's power and provokes an attack of opportunity. Aside from the change in target, the spell's duration and effects continue as normal. A Dvati can transfer a spell he casts from one twin to the other as part of the act of casting without using a move action. He cannot transfer spells used by others.</text>
+        </trait>
+        <trait>
+            <name>Pair Link</name>
+            <text>The close relationship between dvati twins grants them appreciable benefits when they work together in combat. If a twin uses the aid another action to help his twin, he grants an additional +2 bonus (for a total of +4) on attack rolls or to Armor Class.</text>
+        </trait>
+        <!-- Additional Racial Traits -->
+        <trait>
+            <name>Actions</name>
+            <text>Each twin gets one move action, swift/immediate action, and standard action. If they take the full-attack action (they both must expend a full-round action in order to take the full-attack action), they get one full attack and one extra attack at their highest base attack bonus. They may split these attacks between the two twins in whatever manner they wish. However, both attacks at the highest base attack bonus cannot be used by the same twin. Though they may be able to attack separately, it is too mentally taxing on the twins to attack so many times while both are engaged in combat.</text>
+        </trait>
+        <trait>
+            <name>Initiative</name>
+            <text>Roll once to determine the initiative count of both twins. Should one or both twins' initiative count change, such as a held action being triggered, the initiative count of both twins takes the worst of the two.</text>
+        </trait>
+        <trait>
+            <name>Two-Weapon Fighting</name>
+            <text>Each twin may get an extra attack for each twin using Two-Weapon Fighting but the corresponding twin must be the one using the extra attack and that twin suffers Two-Weapon Fighting penalties as normal. Should they both be Two-Weapon Fighting, they both suffer the penalties as normal.</text>
+        </trait>
+        <trait>
+            <name>Multiple Natural Attack</name>
+            <text>Should one or both twins have access to multiple natural attacks, (should they take the full-attack action) they may use all of one twin's natural attacks and one additional attack from the other twin. They may forego one of the natural attacks to allow the other twin to attack but the attack bonus must be equal to or below that of the one they gave up.</text>
+        </trait>
+        <trait>
+            <name>Attacks of Opportunity</name>
+            <text>Each twin gets one Attack of Opportunity. Should they be able to make extra Attacks of Opportunity, they get the same amount as a regular character would +1. These may be divided up between the twins however they see fit. However, the number of attacks cannot exceed the amount one character could make. Any changes to their Ability scores decreases the maximum number of attacks that specific twin can make. It is just as mentally taxing to react to possible openings as it is to make their own.</text>
+        </trait>
+        <trait>
+            <name>Ability Score Change</name>
+            <text>Should Dvati twins be in possession of a magic item or subject to a spell that increases their mental ability score permanently (as per normal after 24 hours), they receive the benefits ONLY if both twins would receive the ability score increase. This applies to similar effects or abilities reliant on ability modifiers. However, any effects that would decrease their mental ability scores affects them both since they share one mind.</text>
+        </trait>
+        <trait>
+            <name>Saves</name>
+            <text>A mind-affecting ability or spell that affects one twin affects both of them at the same time, regardless of distance between the two. If a single such ability targets both twins at the same time, they make only one save between them. Dvati twins share one mind. If an area of effect spell catches both twins, they save separately and take damage as normal unless it is a mind-affecting ability or spell as detailed previously.</text>
+        </trait>
+        <trait>
+            <name>Status Effects</name>
+            <text>In most cases, an effect that applies to one twin fails to spill over to the other unless it is mentioned below. If a medusa turns one twin to stone, the other remains healthy. Negative levels are an exception to this rule. If one Dvati twin suffers a negative level, both of them incur its effects. The Dvati makes one save to remove the negative level.</text>
+        </trait>
+    </race>
+</compendium>
